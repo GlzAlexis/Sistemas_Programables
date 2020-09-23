@@ -56,5 +56,5 @@ Conceptos de electrónica básica.
 
 
 <p align="center"> 
-    <img alt="Logo" src="../img/C1.x_SimbolosElectronicos.png" width=550 height=350>    
+    <img alt="Logo" src="../Img/C1.x_SimbolosElectronicos.png" width=550 height=350>    
 </p>
