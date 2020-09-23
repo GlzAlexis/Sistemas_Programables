@@ -16,7 +16,7 @@ Conceptos de electrónica básica.
    - [ ] Una diferencia de resistencia entre los dos puntos del circuito
 2. Por donde salen los electrones de una pila?
    - [x] Por el polo negativo
-   - [] Por el polo positivo
+   - [ ] Por el polo positivo
    - [ ] Por ambos polos
 3. Si necesitamos un hilo de cobre que ofrezca mucha resistencia eléctrica, cual de los siguientes deberíamos elegir?
    - [ ] Un hilo largo y grueso
