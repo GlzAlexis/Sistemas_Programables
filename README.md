@@ -12,3 +12,4 @@
 
 ## Docs
 - :trophy: [A1.2_AlexisGonzalezOchoa_TheChallengers](Docs/A1.2_AlexisGonzalezOchoa_TheChallengers.md)
+- :trophy: [A1.3_AlexisGonzalezOchoa_TheChallengers](Docs/A1.3_AlexisGonzalezOchoa_TheChallengers.pdf)
