@@ -7,6 +7,7 @@
 - :trophy: [C1.2_AlexisGonzalezOchoa_TheChallengers](Blog/C1.2_AlexisGonzalezOchoa_TheChallengers.md)
 - :trophy: [C1.3_AlexisGonzalezOchoa_TheChallengers](Blog/C1.3_AlexisGonzalezOchoa_TheChallengers.md)
 -  :trophy: [C1.4_AlexisGonzalezOchoa_TheChallengers](Blog/C1.4_AlexisGonzalezOchoa_TheChallengers.md)
+-  :trophy: [C2.2_AlexisGonzalezOchoa_TheChallengers](Blog/C2.2_AlexisGonzalezOchoa_TheChallengers.md)
 ## Img
 
 
