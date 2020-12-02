@@ -26,3 +26,4 @@
 - :trophy: [A2.1_AlexisGonzalezOchoa_TheChallengers](Docs/A2.1_AlexisGonzalezOchoa_TheChallengers.md)
 - :trophy: [A3.1_AlexisGonzalezOchoa_TheChallengers](Docs/A3.1_AlexisGonzalezOchoa_TheChallengers.md)
 - :trophy: [A3.2_AlexisGonzalezOchoa_TheChallengers](Docs/A3.2_AlexisGonzalezOchoa_TheChallengers.md)
+- :trophy: [A3.3_AlexisGonzalezOchoa_TheChallengers](Docs/A3.3_AlexisGonzalezOchoa_TheChallengers.md)
