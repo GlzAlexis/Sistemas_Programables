@@ -30,3 +30,4 @@
 - :trophy: [A3.2_AlexisGonzalezOchoa_TheChallengers](Docs/A3.2_AlexisGonzalezOchoa_TheChallengers.md)
 - :trophy: [A3.3_AlexisGonzalezOchoa_TheChallengers](Docs/A3.3_AlexisGonzalezOchoa_TheChallengers.md)
 - :trophy: [A4.1_AlexisGonzalezOchoa_TheChallengers](Docs/A4.1_AlexisGonzalezOchoa_TheChallengers.md)
+- :trophy: [A4.2_AlexisGonzalezOchoa_TheChallengers](Docs/A4.2_AlexisGonzalezOchoa_TheChallengers.md)
