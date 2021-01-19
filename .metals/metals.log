@@ -3,3 +3,8 @@
 2020.12.05 20:17:21 WARN  Build server is not auto-connectable.
 2020.12.05 20:17:21 WARN  no build tool detected in workspace 'C:\Users\Gllez\OneDrive\Documents\GitHub\Sistemas_Programables'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
 2020.12.05 20:28:11 INFO  shutting down Metals
+2020.12.17 18:52:17 INFO  Started: Metals version 0.9.7 in workspace 'C:\Users\Gllez\OneDrive\Documents\GitHub\Sistemas_Programables' for client vscode.
+2020.12.17 18:52:19 INFO  time: initialize in 2.08s
+2020.12.17 18:52:19 WARN  Build server is not auto-connectable.
+2020.12.17 18:52:19 WARN  no build tool detected in workspace 'C:\Users\Gllez\OneDrive\Documents\GitHub\Sistemas_Programables'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.12.17 18:59:13 INFO  shutting down Metals
